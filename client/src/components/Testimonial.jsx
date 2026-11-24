@@ -9,7 +9,7 @@ const Testimonial = () => {
       location: "Barcelona, Spain",
       image: assets.testimonial_image_1,
       review:
-        "Discover why discerning travelers choose StayVenture for their luxury accommodations around the world.",
+        "Discover why drivers choose us for every trip.",
     },
     {
       name: "Liam Johnson",
@@ -47,7 +47,7 @@ const Testimonial = () => {
     <div className="py-28 px-6 md:px-16 lg:px-24 xl:px-44">
       <Title
         title="What Our Customers Say"
-        subTitle="Discover why discerning travelers choose StayVenture for their luxury accommodations around the world."
+        subTitle="Discover why drivers choose us for every trip."
       />
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-18">
